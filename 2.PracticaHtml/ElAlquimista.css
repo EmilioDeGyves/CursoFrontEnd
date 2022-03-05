@@ -1,0 +1,34 @@
+*{
+    background-color: #38B6FF;
+}
+
+header{
+    background-color: aqua;
+}
+header div{
+    display: inline-block;
+}
+.MenuSabores{
+    display: inline-block;
+    width: 1020px;
+    height: 200px;
+    margin: 20px;
+}
+.MenuSabores__Opcion{
+    display:inline-block;
+    width: 250px;
+    height: 200px;
+    background-color: palevioletred;
+}
+.MenuDecoraciones{
+    display: inline-block;
+    margin: 20px;
+}
+.MenuDecoraciones__Opcion{
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    background-color: palevioletred;
+    padding-top: 20px ;
+}
+
